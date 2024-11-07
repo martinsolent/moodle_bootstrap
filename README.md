@@ -1,5 +1,55 @@
 # Moodle Bootstrap
 
+### Buttons
+
+```
+<button type="button" class="btn btn-primary">Primary</button>
+```
+
+```
+<button type="button" class="btn btn-secondary">Secondary</button>
+```
+
+```
+<button type="button" class="btn btn-success">Success</button>
+```
+
+```
+<button type="button" class="btn btn-danger">Danger</button>
+```
+
+```
+<button type="button" class="btn btn-warning">Warning</button>
+```
+
+```
+<button type="button" class="btn btn-info">Info</button>
+```
+
+```
+<button type="button" class="btn btn-light">Light</button>
+```
+
+```
+<button type="button" class="btn btn-dark">Dark</button>
+```
+
+```
+<button type="button" class="btn btn-link">Link</button>
+```
+
+### Button Group
+
+```
+<div class="btn-group" role="group" aria-label="Basic example">
+  <button type="button" class="btn btn-primary">Left</button>
+  <button type="button" class="btn btn-primary">Middle</button>
+  <button type="button" class="btn btn-primary">Right</button>
+</div>
+
+```
+
+### Alerts
 
 ```
 <div class="alert alert-primary" role="alert">
@@ -19,6 +69,7 @@
 <div class="alert alert-success" role="alert">
     A simple success alert—check it out!
 </div>
+
 ```
 
 ```
@@ -43,9 +94,9 @@
 <div class="alert alert-light" role="alert">
     A simple light alert—check it out!
 </div>
-```
 
 ```
+
 <div class="alert alert-dark" role="alert">
     A simple dark alert—check it out!
 </div>

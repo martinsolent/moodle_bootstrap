@@ -1,6 +1,7 @@
 # Moodle Bootstrap
 
-`<div class="alert alert-primary" role="alert">
+`
+<div class="alert alert-primary" role="alert">
     A simple primary alert—check it out!
 </div>
 <div class="alert alert-secondary" role="alert">
@@ -23,4 +24,5 @@
 </div>
 <div class="alert alert-dark" role="alert">
     A simple dark alert—check it out!
-</div>`
+</div>
+`

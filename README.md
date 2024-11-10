@@ -38,6 +38,12 @@
 <button type="button" class="btn btn-link">Link</button>
 ```
 
+### Button With Link - Open Page
+```
+<p style="text-align: right;"><a href="#" class="btn btn-primary">Open Page</a></p>
+```
+
+
 ### Button Group
 
 ```
